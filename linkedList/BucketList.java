@@ -2,7 +2,7 @@ import java.util.LinkedList;
 
 public class BucketList {
     public static void main(String args[]) {
-        LinkedList travelStates = new LinkedList<>();
+        LinkedList<String> travelStates = new LinkedList<String>();
 
         // Add Items
         travelStates.add("Minas Gerais, Brasil");
